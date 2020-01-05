@@ -1,4 +1,4 @@
-# Flask app simple CRUD
+# Python app simple CRUD
 
 Final project of my Python Bootcamp using Bootstrap and CSS in frontend and backend with Pyton 3 and Flask framework. 
 
